@@ -1,8 +1,12 @@
+## Team Network-System
+
+> Số lượng thành viên: **03**
+>
+> Team leader: **Van-Toan Ha ([@h4rdw0rk](https://github.com/h4rdw0rk))**
+
 ### Tổng kết task đã giao Team SA tháng 11/2016
 
----
-
-**Thanh Nhựt:**
+**1. Thanh Nhựt:**
 
 - Task27 - HTTP The Definitive Guide Page 8to11
 - Task28 - HTML & CSS CodeAcademy
@@ -14,7 +18,7 @@
 - Task34 - JavaScript CodeAcademy
 - Task35 - Ubuntu RAID Arrays
 
-**Công Trứ:**
+**2. Công Trứ:**
 
 - Task10 - CSS Course 01 (Day 02-04)
 - Task11 - VI Editor
@@ -27,7 +31,7 @@
 - Task18 - VNC Basic
 - Task19 - Init System
 
-**Tú Trinh:** :fire::fire::fire:
+**3. Tú Trinh:** :fire::fire::fire:
 
 - Task06 - HTTP Protocol
 - Task07 - Basic concepts Hosting-Server
@@ -40,13 +44,9 @@
 - Task05 - CSS Course 01 (Day 06)
 - Task14 - Robots.txt and sitemap.xml
 
----
-
 ### Dự kiến giao task Team SA tháng 12/2016
 
----
-
-**Thanh Nhựt:**
+**1. Thanh Nhựt:**
 
 - Task36 - DNS Protocol
 - Task37 - Javascript Basic Part 03 (Day 01-03 Complete)
@@ -57,7 +57,7 @@
 - Task42 - FTP Protocol
 - Task43 - VPS Usage
 
-**Công Trứ:**
+**2. Công Trứ:**
 
 - Task20 - Translation TCP-IP Illustrated Vol1 Page 520to525
 - Task21 - Translation TCP-IP Illustrated Vol1 Page 525to529
@@ -69,7 +69,7 @@
 - Task27 - Ubuntu Antivirus
 - Task12 - GRUB Linux @CONT
 
-**Tú Trinh:**
+**3. Tú Trinh:**
 
 - Task15 - Javascript Course 01 Part 02 (Day 01-03 Complete)
 - Task16 - Google Webmaster Tool
